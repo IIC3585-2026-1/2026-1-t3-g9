@@ -42,8 +42,9 @@ Abrir en navegador: http://127.0.0.1:8000/
 
 El código en C fue obtenido de:
 
--   
+-   https://gist.github.com/mamins1376/2066828739627d15c112dd4ec582db46
 
+Se mantuvo la implementación para resolver el problema, y se modificó la forma de entregar el tablero inicial, de forma que se evita la interacción del usuario por consola para adaptar mejor al navegador. Además, se definieron y exportaron las funciones solve(), get_cell() y set_cell() para su integración con el navegador.
 
 
 ## Uso de IA
